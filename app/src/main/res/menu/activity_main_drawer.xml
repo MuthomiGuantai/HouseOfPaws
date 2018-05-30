@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_action_home"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_add_ad"
+            android:icon="@drawable/ic_action_add"
+            android:title="Submit An Ad" />
+        <item
+            android:id="@+id/nav_breed_book"
+            android:icon="@drawable/ic_action_book"
+            android:title="Breed Book" />
+        <item
+            android:id="@+id/nav_notifications"
+            android:icon="@drawable/ic_action_notifications"
+            android:title="Notification Center" />
+        <item
+            android:id="@+id/nav_about_Us"
+            android:icon="@drawable/ic_action_us"
+            android:title="About Us" />
+        <item
+            android:id="@+id/nav_share"
+            android:icon="@drawable/ic_action_share"
+            android:title="Share" />
+    </group>
+
+</menu>

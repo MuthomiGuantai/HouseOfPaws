@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "671413011977",
+    "firebase_url": "https://house-of-paws-1ce6f.firebaseio.com",
+    "project_id": "house-of-paws-1ce6f",
+    "storage_bucket": "house-of-paws-1ce6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671413011977:android:60e60346bca56216",
+        "android_client_info": {
+          "package_name": "com.example.admin.houseofpaws"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671413011977-pet02mm04sb08dd3r93k4qof45i0utls.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0avFwI53JSJF-Rhz9Kzh0ja1lv0GyEBM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
